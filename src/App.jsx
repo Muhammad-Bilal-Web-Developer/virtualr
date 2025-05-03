@@ -15,8 +15,9 @@ function App() {
 
   return (
     <>
+    
       <Navbar />
-      <div className="max-w-7xl mx-auto pt-20 px-17">
+      <div className="max-w-7xl mx-auto pt-20 px-10">
         <HeroSection />
         <FeatureSection />
         <WorkFlow />
